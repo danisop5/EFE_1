@@ -1,0 +1,4 @@
+git bach
+1- git config --global user.name "danisop5"
+2- git config --global user.email "danisoto05.as@gmail.com"
+3- git config --global --list
